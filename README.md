@@ -4,6 +4,6 @@
   
 - Compute summary stats (mean, median,min, max, count).
   
--Filter rows, select columns and slice subsets.
+- Filter rows, select columns and slice subsets.
 
--Save filtered results to CSV/excel.
+- Save filtered results to CSV/excel.
